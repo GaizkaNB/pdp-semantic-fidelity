@@ -1,0 +1,14 @@
+category,field,weight,required,field_type
+tv,screen_technology,20,TRUE,categorical
+tv,resolution,20,TRUE,categorical
+tv,refresh_rate,15,TRUE,numeric
+tv,gaming_features,15,FALSE,multi_value
+tv,screen_size,15,TRUE,numeric
+tv,hdr,10,FALSE,multi_value
+tv,operating_system,5,FALSE,categorical
+tshirt,composition,30,TRUE,text
+tshirt,fit_or_cut,25,TRUE,categorical
+tshirt,sleeve_type,20,TRUE,categorical
+tshirt,neckline,15,FALSE,categorical
+tshirt,pattern_details,5,FALSE,categorical
+tshirt,brand,5,FALSE,text

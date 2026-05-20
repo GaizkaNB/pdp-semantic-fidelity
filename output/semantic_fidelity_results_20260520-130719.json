@@ -1,0 +1,739 @@
+[
+  {
+    "url": "https://www.johnlewis.com/lg-oled55c54la-2025-oled-evo-hdr-4k-ultra-hd-smart-ai-tv-55-inch-with-dolby-atmos-dark-titan-silver/p113530623",
+    "category": "tv",
+    "fetched_status_code": 200,
+    "model": "gemma4:e2b",
+    "extracted": {
+      "screen_technology": "OLED evo",
+      "resolution": "4K Ultra HD",
+      "refresh_rate": null,
+      "gaming_features": null,
+      "screen_size": "55 inch",
+      "hdr": [
+        "HDR 4K",
+        "Dolby Vision"
+      ],
+      "operating_system": "webOS"
+    },
+    "score": {
+      "score": 62.5,
+      "max_score": 100.0,
+      "earned_score": 70.0,
+      "missing_penalty": 7.5,
+      "hallucination_penalty": 0.0
+    },
+    "missing_semantic_fields": [
+      "refresh_rate",
+      "gaming_features"
+    ],
+    "degraded_fields": [],
+    "unsupported_fields": [],
+    "hallucinated_fields": [],
+    "hallucination_count": 0,
+    "page_evidence": {
+      "json_ld_count": 4,
+      "text_length": 18279
+    },
+    "comparison": [
+      {
+        "field": "screen_technology",
+        "field_type": "categorical",
+        "weight": 20.0,
+        "required": true,
+        "status": "present",
+        "value": "OLED evo",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "LG OLED55C54LA (2025) OLED evo HDR 4K Ultra HD Smart AI TV, 55 inch with Dolby Atmos, Dark Titan Silver width=",
+        "unsupported_values": []
+      },
+      {
+        "field": "resolution",
+        "field_type": "categorical",
+        "weight": 20.0,
+        "required": true,
+        "status": "present",
+        "value": "4K Ultra HD",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "LG OLED55C54LA (2025) OLED evo HDR 4K Ultra HD Smart AI TV, 55 inch with Dolby Atmos, Dark Titan Silver width=device-width Buy",
+        "unsupported_values": []
+      },
+      {
+        "field": "refresh_rate",
+        "field_type": "numeric",
+        "weight": 15.0,
+        "required": true,
+        "status": "missing",
+        "value": null,
+        "note": "No explicit value extracted.",
+        "credit": 0.0,
+        "evidence_status": "not_checked",
+        "evidence_snippet": null,
+        "unsupported_values": []
+      },
+      {
+        "field": "gaming_features",
+        "field_type": "multi_value",
+        "weight": 15.0,
+        "required": false,
+        "status": "missing",
+        "value": null,
+        "note": "No explicit value extracted.",
+        "credit": 0.0,
+        "evidence_status": "not_checked",
+        "evidence_snippet": null,
+        "unsupported_values": []
+      },
+      {
+        "field": "screen_size",
+        "field_type": "numeric",
+        "weight": 15.0,
+        "required": true,
+        "status": "present",
+        "value": "55 inch",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "LG OLED55C54LA (2025) OLED evo HDR 4K Ultra HD Smart AI TV, 55 inch with Dolby Atmos, Dark Titan Silver width=device-width Buy LG OLED55C54LA (2025",
+        "unsupported_values": []
+      },
+      {
+        "field": "hdr",
+        "field_type": "multi_value",
+        "weight": 10.0,
+        "required": false,
+        "status": "present",
+        "value": [
+          "HDR 4K",
+          "Dolby Vision"
+        ],
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "LG OLED55C54LA (2025) OLED evo HDR 4K Ultra HD Smart AI TV, 55 inch with Dolby Atmos, Dark Titan Silver width=device-",
+        "unsupported_values": []
+      },
+      {
+        "field": "operating_system",
+        "field_type": "categorical",
+        "weight": 5.0,
+        "required": false,
+        "status": "present",
+        "value": "webOS",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "oster ensures a stunning picture, from any angle, in any light environment. The webOS smart platform hosts a huge variety of the top streaming services, while voice",
+        "unsupported_values": []
+      }
+    ],
+    "raw_model_response": "{\n  \"screen_technology\": \"OLED evo\",\n  \"resolution\": \"4K Ultra HD\",\n  \"refresh_rate\": null,\n  \"gaming_features\": null,\n  \"screen_size\": \"55 inch\",\n  \"hdr\": [\n    \"HDR 4K\",\n    \"Dolby Vision\"\n  ],\n  \"operating_system\": \"webOS\"\n}"
+  },
+  {
+    "url": "https://www.johnlewis.com/lg-oled65c54la-2025-oled-evo-hdr-4k-ultra-hd-smart-ai-tv-65-inch-with-dolby-atmos-dark-titan-silver/p113530624",
+    "category": "tv",
+    "fetched_status_code": 200,
+    "model": "gemma4:e2b",
+    "extracted": {
+      "screen_technology": "OLED evo",
+      "resolution": "4K Ultra HD",
+      "refresh_rate": null,
+      "gaming_features": null,
+      "screen_size": "65 inch",
+      "hdr": [
+        "HDR 4K",
+        "Dolby Vision"
+      ],
+      "operating_system": "webOS"
+    },
+    "score": {
+      "score": 62.5,
+      "max_score": 100.0,
+      "earned_score": 70.0,
+      "missing_penalty": 7.5,
+      "hallucination_penalty": 0.0
+    },
+    "missing_semantic_fields": [
+      "refresh_rate",
+      "gaming_features"
+    ],
+    "degraded_fields": [],
+    "unsupported_fields": [],
+    "hallucinated_fields": [],
+    "hallucination_count": 0,
+    "page_evidence": {
+      "json_ld_count": 4,
+      "text_length": 18304
+    },
+    "comparison": [
+      {
+        "field": "screen_technology",
+        "field_type": "categorical",
+        "weight": 20.0,
+        "required": true,
+        "status": "present",
+        "value": "OLED evo",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "LG OLED65C54LA (2025) OLED evo HDR 4K Ultra HD Smart AI TV, 65 inch with Dolby Atmos, Dark Titan Silver width=",
+        "unsupported_values": []
+      },
+      {
+        "field": "resolution",
+        "field_type": "categorical",
+        "weight": 20.0,
+        "required": true,
+        "status": "present",
+        "value": "4K Ultra HD",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "LG OLED65C54LA (2025) OLED evo HDR 4K Ultra HD Smart AI TV, 65 inch with Dolby Atmos, Dark Titan Silver width=device-width Buy",
+        "unsupported_values": []
+      },
+      {
+        "field": "refresh_rate",
+        "field_type": "numeric",
+        "weight": 15.0,
+        "required": true,
+        "status": "missing",
+        "value": null,
+        "note": "No explicit value extracted.",
+        "credit": 0.0,
+        "evidence_status": "not_checked",
+        "evidence_snippet": null,
+        "unsupported_values": []
+      },
+      {
+        "field": "gaming_features",
+        "field_type": "multi_value",
+        "weight": 15.0,
+        "required": false,
+        "status": "missing",
+        "value": null,
+        "note": "No explicit value extracted.",
+        "credit": 0.0,
+        "evidence_status": "not_checked",
+        "evidence_snippet": null,
+        "unsupported_values": []
+      },
+      {
+        "field": "screen_size",
+        "field_type": "numeric",
+        "weight": 15.0,
+        "required": true,
+        "status": "present",
+        "value": "65 inch",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "LG OLED65C54LA (2025) OLED evo HDR 4K Ultra HD Smart AI TV, 65 inch with Dolby Atmos, Dark Titan Silver width=device-width Buy LG OLED65C54LA (2025",
+        "unsupported_values": []
+      },
+      {
+        "field": "hdr",
+        "field_type": "multi_value",
+        "weight": 10.0,
+        "required": false,
+        "status": "present",
+        "value": [
+          "HDR 4K",
+          "Dolby Vision"
+        ],
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "LG OLED65C54LA (2025) OLED evo HDR 4K Ultra HD Smart AI TV, 65 inch with Dolby Atmos, Dark Titan Silver width=device-",
+        "unsupported_values": []
+      },
+      {
+        "field": "operating_system",
+        "field_type": "categorical",
+        "weight": 5.0,
+        "required": false,
+        "status": "present",
+        "value": "webOS",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "oster ensures a stunning picture, from any angle, in any light environment, The webOS smart platform hosts a huge variety of the top streaming services, while voice",
+        "unsupported_values": []
+      }
+    ],
+    "raw_model_response": "{\n  \"screen_technology\": \"OLED evo\",\n  \"resolution\": \"4K Ultra HD\",\n  \"refresh_rate\": null,\n  \"gaming_features\": null,\n  \"screen_size\": \"65 inch\",\n  \"hdr\": [\n    \"HDR 4K\",\n    \"Dolby Vision\"\n  ],\n  \"operating_system\": \"webOS\"\n}"
+  },
+  {
+    "url": "https://www.johnlewis.com/lg-oled65g54lw-2025-oled-evo-hdr-4k-ultra-hd-smart-ai-tv-65-inch-with-dolby-atmos-one-wall-design-satin-silver/p113362527",
+    "category": "tv",
+    "fetched_status_code": 200,
+    "model": "gemma4:e2b",
+    "extracted": {
+      "screen_technology": "OLED",
+      "resolution": "4K Ultra HD",
+      "refresh_rate": null,
+      "gaming_features": null,
+      "screen_size": "65 inch",
+      "hdr": [
+        "HDR 4K",
+        "Dolby Vision"
+      ],
+      "operating_system": "webOS"
+    },
+    "score": {
+      "score": 62.5,
+      "max_score": 100.0,
+      "earned_score": 70.0,
+      "missing_penalty": 7.5,
+      "hallucination_penalty": 0.0
+    },
+    "missing_semantic_fields": [
+      "refresh_rate",
+      "gaming_features"
+    ],
+    "degraded_fields": [],
+    "unsupported_fields": [],
+    "hallucinated_fields": [],
+    "hallucination_count": 0,
+    "page_evidence": {
+      "json_ld_count": 4,
+      "text_length": 19578
+    },
+    "comparison": [
+      {
+        "field": "screen_technology",
+        "field_type": "categorical",
+        "weight": 20.0,
+        "required": true,
+        "status": "present",
+        "value": "OLED",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "LG OLED65G54LW (2025) OLED evo HDR 4K Ultra HD Smart AI TV, 65 inch with Dolby Atmos &",
+        "unsupported_values": []
+      },
+      {
+        "field": "resolution",
+        "field_type": "categorical",
+        "weight": 20.0,
+        "required": true,
+        "status": "present",
+        "value": "4K Ultra HD",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "LG OLED65G54LW (2025) OLED evo HDR 4K Ultra HD Smart AI TV, 65 inch with Dolby Atmos & One Wall Design, Satin Silver width=dev",
+        "unsupported_values": []
+      },
+      {
+        "field": "refresh_rate",
+        "field_type": "numeric",
+        "weight": 15.0,
+        "required": true,
+        "status": "missing",
+        "value": null,
+        "note": "No explicit value extracted.",
+        "credit": 0.0,
+        "evidence_status": "not_checked",
+        "evidence_snippet": null,
+        "unsupported_values": []
+      },
+      {
+        "field": "gaming_features",
+        "field_type": "multi_value",
+        "weight": 15.0,
+        "required": false,
+        "status": "missing",
+        "value": null,
+        "note": "No explicit value extracted.",
+        "credit": 0.0,
+        "evidence_status": "not_checked",
+        "evidence_snippet": null,
+        "unsupported_values": []
+      },
+      {
+        "field": "screen_size",
+        "field_type": "numeric",
+        "weight": 15.0,
+        "required": true,
+        "status": "present",
+        "value": "65 inch",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "LG OLED65G54LW (2025) OLED evo HDR 4K Ultra HD Smart AI TV, 65 inch with Dolby Atmos & One Wall Design, Satin Silver width=device-width Buy LG OLED",
+        "unsupported_values": []
+      },
+      {
+        "field": "hdr",
+        "field_type": "multi_value",
+        "weight": 10.0,
+        "required": false,
+        "status": "present",
+        "value": [
+          "HDR 4K",
+          "Dolby Vision"
+        ],
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "LG OLED65G54LW (2025) OLED evo HDR 4K Ultra HD Smart AI TV, 65 inch with Dolby Atmos & One Wall Design, Satin Silver",
+        "unsupported_values": []
+      },
+      {
+        "field": "operating_system",
+        "field_type": "categorical",
+        "weight": 5.0,
+        "required": false,
+        "status": "present",
+        "value": "webOS",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "a movie – regardless of whether you’re viewing at night, or during the day. The webOS smart platform hosts a huge variety of the top streaming services, while Alexa",
+        "unsupported_values": []
+      }
+    ],
+    "raw_model_response": "{\n  \"screen_technology\": \"OLED\",\n  \"resolution\": \"4K Ultra HD\",\n  \"refresh_rate\": null,\n  \"gaming_features\": null,\n  \"screen_size\": \"65 inch\",\n  \"hdr\": [\n    \"HDR 4K\",\n    \"Dolby Vision\"\n  ],\n  \"operating_system\": \"webOS\"\n}"
+  },
+  {
+    "url": "https://www.johnlewis.com/polo-ralph-lauren-cotton-custom-slim-fit-short-sleeve-t-shirt/antique-cream/p114575638",
+    "category": "tshirt",
+    "fetched_status_code": 200,
+    "model": "gemma4:e2b",
+    "extracted": {
+      "composition": "100% cotton",
+      "fit_or_cut": "Slim Fit",
+      "sleeve_type": "Short Sleeve",
+      "neckline": "Crew Neck",
+      "pattern_details": "Plain",
+      "brand": "Polo Ralph Lauren"
+    },
+    "score": {
+      "score": 100.0,
+      "max_score": 100.0,
+      "earned_score": 100.0,
+      "missing_penalty": 0.0,
+      "hallucination_penalty": 0.0
+    },
+    "missing_semantic_fields": [],
+    "degraded_fields": [],
+    "unsupported_fields": [],
+    "hallucinated_fields": [],
+    "hallucination_count": 0,
+    "page_evidence": {
+      "json_ld_count": 4,
+      "text_length": 27692
+    },
+    "comparison": [
+      {
+        "field": "composition",
+        "field_type": "text",
+        "weight": 30.0,
+        "required": true,
+        "status": "present",
+        "value": "100% cotton",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "OfferShippingDetails MonetaryAmount 10.95 GBP Morning Delivery DefinedRegion GB 100% cotton Plain Product Polo Ralph Lauren Cotton Custom Slim Fit Short Sleeve T-Shirt, Ga",
+        "unsupported_values": []
+      },
+      {
+        "field": "fit_or_cut",
+        "field_type": "categorical",
+        "weight": 25.0,
+        "required": true,
+        "status": "present",
+        "value": "Slim Fit",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "Polo Ralph Lauren Cotton Custom Slim Fit Short Sleeve T-Shirt, Antique Cream width=device-width Buy Polo Ralph Lauren Co",
+        "unsupported_values": []
+      },
+      {
+        "field": "sleeve_type",
+        "field_type": "categorical",
+        "weight": 20.0,
+        "required": true,
+        "status": "present",
+        "value": "Short Sleeve",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "Polo Ralph Lauren Cotton Custom Slim Fit Short Sleeve T-Shirt, Antique Cream width=device-width Buy Polo Ralph Lauren Cotton Custom S",
+        "unsupported_values": []
+      },
+      {
+        "field": "neckline",
+        "field_type": "categorical",
+        "weight": 15.0,
+        "required": false,
+        "status": "present",
+        "value": "Crew Neck",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "gin China Drying instructions Please see care label Fit or cut Regular Neckline Crew Neck Pattern details Plain Sleeve type Short Sleeve Washing instructions Machine Was",
+        "unsupported_values": []
+      },
+      {
+        "field": "pattern_details",
+        "field_type": "categorical",
+        "weight": 5.0,
+        "required": false,
+        "status": "present",
+        "value": "Plain",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "gDetails MonetaryAmount 10.95 GBP Morning Delivery DefinedRegion GB 100% cotton Plain Product Polo Ralph Lauren Cotton Custom Slim Fit Short Sleeve T-Shirt, Garden T",
+        "unsupported_values": []
+      },
+      {
+        "field": "brand",
+        "field_type": "text",
+        "weight": 5.0,
+        "required": false,
+        "status": "present",
+        "value": "Polo Ralph Lauren",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "Polo Ralph Lauren Cotton Custom Slim Fit Short Sleeve T-Shirt, Antique Cream width=device-width B",
+        "unsupported_values": []
+      }
+    ],
+    "raw_model_response": "{\n  \"composition\": \"100% cotton\",\n  \"fit_or_cut\": \"Slim Fit\",\n  \"sleeve_type\": \"Short Sleeve\",\n  \"neckline\": \"Crew Neck\",\n  \"pattern_details\": \"Plain\",\n  \"brand\": \"Polo Ralph Lauren\"\n}"
+  },
+  {
+    "url": "https://www.johnlewis.com/tommy-hilfiger-regular-fit-logo-cotton-t-shirt/blue/p113613256",
+    "category": "tshirt",
+    "fetched_status_code": 200,
+    "model": "gemma4:e2b",
+    "extracted": {
+      "composition": "100% regenerative cotton",
+      "fit_or_cut": "Regular",
+      "sleeve_type": "Short Sleeve",
+      "neckline": "Crew Neck",
+      "pattern_details": "Plain",
+      "brand": "Tommy Hilfiger"
+    },
+    "score": {
+      "score": 100.0,
+      "max_score": 100.0,
+      "earned_score": 100.0,
+      "missing_penalty": 0.0,
+      "hallucination_penalty": 0.0
+    },
+    "missing_semantic_fields": [],
+    "degraded_fields": [],
+    "unsupported_fields": [],
+    "hallucinated_fields": [],
+    "hallucination_count": 0,
+    "page_evidence": {
+      "json_ld_count": 4,
+      "text_length": 11265
+    },
+    "comparison": [
+      {
+        "field": "composition",
+        "field_type": "text",
+        "weight": 30.0,
+        "required": true,
+        "status": "present",
+        "value": "100% regenerative cotton",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "OfferShippingDetails MonetaryAmount 10.95 GBP Morning Delivery DefinedRegion GB 100% regenerative cotton Plain Product Tommy Hilfiger Regular Fit Logo Cotton T-Shirt, Light Blue https:",
+        "unsupported_values": []
+      },
+      {
+        "field": "fit_or_cut",
+        "field_type": "categorical",
+        "weight": 25.0,
+        "required": true,
+        "status": "present",
+        "value": "Regular",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "Tommy Hilfiger Regular Fit Logo Cotton T-Shirt, Blue width=device-width Buy Tommy Hilfiger Regular Fit",
+        "unsupported_values": []
+      },
+      {
+        "field": "sleeve_type",
+        "field_type": "categorical",
+        "weight": 20.0,
+        "required": true,
+        "status": "present",
+        "value": "Short Sleeve",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "e label Fit or cut Regular Neckline Crew Neck Pattern details Plain Sleeve type Short Sleeve Washing instructions Machine Washable at 30°C Delivery and returns Delivery and",
+        "unsupported_values": []
+      },
+      {
+        "field": "neckline",
+        "field_type": "categorical",
+        "weight": 15.0,
+        "required": false,
+        "status": "present",
+        "value": "Crew Neck",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "ying instructions Tumble Dry, Please see care label Fit or cut Regular Neckline Crew Neck Pattern details Plain Sleeve type Short Sleeve Washing instructions Machine Was",
+        "unsupported_values": []
+      },
+      {
+        "field": "pattern_details",
+        "field_type": "categorical",
+        "weight": 5.0,
+        "required": false,
+        "status": "present",
+        "value": "Plain",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "taryAmount 10.95 GBP Morning Delivery DefinedRegion GB 100% regenerative cotton Plain Product Tommy Hilfiger Regular Fit Logo Cotton T-Shirt, Light Blue https://www.",
+        "unsupported_values": []
+      },
+      {
+        "field": "brand",
+        "field_type": "text",
+        "weight": 5.0,
+        "required": false,
+        "status": "present",
+        "value": "Tommy Hilfiger",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "Tommy Hilfiger Regular Fit Logo Cotton T-Shirt, Blue width=device-width Buy Tommy Hilfiger Reg",
+        "unsupported_values": []
+      }
+    ],
+    "raw_model_response": "{\n  \"composition\": \"100% regenerative cotton\",\n  \"fit_or_cut\": \"Regular\",\n  \"sleeve_type\": \"Short Sleeve\",\n  \"neckline\": \"Crew Neck\",\n  \"pattern_details\": \"Plain\",\n  \"brand\": \"Tommy Hilfiger\"\n}"
+  },
+  {
+    "url": "https://www.johnlewis.com/barbour-essential-cotton-regular-fit-short-sleeve-t-shirt/blue/p114877835",
+    "category": "tshirt",
+    "fetched_status_code": 200,
+    "model": "gemma4:e2b",
+    "extracted": {
+      "composition": "100% cotton",
+      "fit_or_cut": "Regular",
+      "sleeve_type": "Short Sleeve",
+      "neckline": "Crew Neck",
+      "pattern_details": null,
+      "brand": "Barbour"
+    },
+    "score": {
+      "score": 95.0,
+      "max_score": 100.0,
+      "earned_score": 95.0,
+      "missing_penalty": 0.0,
+      "hallucination_penalty": 0.0
+    },
+    "missing_semantic_fields": [
+      "pattern_details"
+    ],
+    "degraded_fields": [],
+    "unsupported_fields": [],
+    "hallucinated_fields": [],
+    "hallucination_count": 0,
+    "page_evidence": {
+      "json_ld_count": 4,
+      "text_length": 12979
+    },
+    "comparison": [
+      {
+        "field": "composition",
+        "field_type": "text",
+        "weight": 30.0,
+        "required": true,
+        "status": "present",
+        "value": "100% cotton",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "garment works well with jeans, shorts, chinos and tracksuits. It’s imagined in 100% cotton with short sleeves, a crew neck and branding to the chest, offering a signature",
+        "unsupported_values": []
+      },
+      {
+        "field": "fit_or_cut",
+        "field_type": "categorical",
+        "weight": 25.0,
+        "required": true,
+        "status": "present",
+        "value": "Regular",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "Barbour Essential Cotton Regular Fit Short Sleeve T-Shirt, Blue width=device-width Buy Barbour Essential Cotton",
+        "unsupported_values": []
+      },
+      {
+        "field": "sleeve_type",
+        "field_type": "categorical",
+        "weight": 20.0,
+        "required": true,
+        "status": "present",
+        "value": "Short Sleeve",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "Barbour Essential Cotton Regular Fit Short Sleeve T-Shirt, Blue width=device-width Buy Barbour Essential Cotton Regular Fit Short",
+        "unsupported_values": []
+      },
+      {
+        "field": "neckline",
+        "field_type": "categorical",
+        "weight": 15.0,
+        "required": false,
+        "status": "present",
+        "value": "Crew Neck",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "orts, chinos and tracksuits. It’s imagined in 100% cotton with short sleeves, a crew neck and branding to the chest, offering a signature finish to weekend looks. Brand",
+        "unsupported_values": []
+      },
+      {
+        "field": "pattern_details",
+        "field_type": "categorical",
+        "weight": 5.0,
+        "required": false,
+        "status": "missing",
+        "value": null,
+        "note": "No explicit value extracted.",
+        "credit": 0.0,
+        "evidence_status": "not_checked",
+        "evidence_snippet": null,
+        "unsupported_values": []
+      },
+      {
+        "field": "brand",
+        "field_type": "text",
+        "weight": 5.0,
+        "required": false,
+        "status": "present",
+        "value": "Barbour",
+        "note": "Value extracted.",
+        "credit": 1.0,
+        "evidence_status": "supported",
+        "evidence_snippet": "Barbour Essential Cotton Regular Fit Short Sleeve T-Shirt, Blue width=device-width Buy",
+        "unsupported_values": []
+      }
+    ],
+    "raw_model_response": "{\n  \"composition\": \"100% cotton\",\n  \"fit_or_cut\": \"Regular\",\n  \"sleeve_type\": \"Short Sleeve\",\n  \"neckline\": \"Crew Neck\",\n  \"pattern_details\": null,\n  \"brand\": \"Barbour\"\n}"
+  }
+]
